@@ -1,2 +1,14 @@
 # shot-xinlang-notes
-HTML page archive and documentation
+
+资料页面发布仓库
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 页面目录
+
+- 每个 HTML 文件代表一个页面
+- README 仅作为仓库说明
+
+## 结尾说明
+
+本 README 用于说明仓库用途，页面内容以独立 HTML 文件为准。
